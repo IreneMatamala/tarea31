@@ -1,4 +1,4 @@
-name: Java CI with Maven (Simulado)
+name: Java CI with Maven (pom)
 
 on:
   push:
